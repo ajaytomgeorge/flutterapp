@@ -1,0 +1,23 @@
+[ 
+    { 
+       "imageUrl": "assets/images/phone.jpg", 
+      "name": "Tamil Nadu State Helpline number",
+       "type": "Available",
+       "startTimes": "24 hours",
+       "phoneno":"04429510500"
+    }, 
+    { 
+      "imageUrl": "assets/images/h_kingsInstitute.jpg", 
+     "name": "King's Institute of Preventive Medicine & Research, Chennai",
+      "type": "Available",
+      "startTimes": "10 am to 5:00 pm",
+      "phoneno":"04422501520"
+   }, 
+   { 
+      "imageUrl": "assets/images/h_theni.jpg", 
+     "name": "Government Medical College, Theni",
+      "type": "Available",
+      "startTimes": "Regular timings",
+      "phoneno":"04546263668"
+   }
+ ]

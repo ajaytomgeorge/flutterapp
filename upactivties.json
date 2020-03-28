@@ -1,0 +1,30 @@
+[ 
+    { 
+       "imageUrl": "assets/images/phone.jpg", 
+      "name": "Uttar Pradesh State Helpline number",
+       "type": "Available",
+       "startTimes": "24 hours",
+       "phoneno":"18001805145"
+    }, 
+    { 
+      "imageUrl": "assets/images/h_kinggeorge.jpg", 
+     "name": "King George's Medical University",
+      "type": "Available",
+      "startTimes": "Regular timings",
+      "phoneno":"05222258880"
+   }, 
+   { 
+      "imageUrl": "assets/images/h_banaras.jpg", 
+     "name": "Institute of Medical Sciences,Banaras Hindu University",
+      "type": "Available",
+      "startTimes": "Regular Timings",
+      "phoneno":"05422367568"
+   }, 
+   { 
+      "imageUrl": "assets/images/h_jawaharaligarh.jpg", 
+     "name": "Jawaharlal Nehru Medical College, Aligarh",
+      "type": "Available",
+      "startTimes": "24 hours",
+      "phoneno":"05712721113"
+   }
+ ]

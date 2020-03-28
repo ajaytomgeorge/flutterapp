@@ -1,0 +1,45 @@
+[ 
+   { 
+      "imageUrl": "assets/images/phone.jpg", 
+     "name": "Delhi State Helpline number",
+      "type": "Available",
+      "startTimes": "24 hours",
+      "phoneno":"01122307145"
+   }, 
+   { 
+     "imageUrl": "assets/images/h_sanjaygandhi.jpg", 
+    "name": "Sanjay Gandhi Memorial",
+     "type": "Available",
+     "startTimes": "Regular timings",
+     "phoneno": "01127922843"
+  }, 
+  { 
+     "imageUrl": "assets/images/h_lalBahadur.jpg", 
+    "name": "Lal Bahadur Shastri Hospital",
+     "type": "Available",
+     "startTimes": "Regular timings",
+     "phoneno":"01122786828"
+  }, 
+  { 
+     "imageUrl": "assets/images/h_babasaheb.jpg", 
+    "name": "Dr. Baba Saheb Ambedkar Hospital",
+     "type": "Available",
+     "startTimes": "24 hours",
+     "phoneno":"01127933258"
+  }, 
+  { 
+     "imageUrl": "assets/images/h_chachanehru.jpg", 
+    "name": "Chacha Nehru Bal Chikitsalaya",
+     "type": "Available",
+     "startTimes": "24 hours",
+     "phoneno":"01121210215"
+  }, 
+  { 
+     "imageUrl": "assets/images/h_hindurao.jpg", 
+    "name": "Hindu Rao Hospital",
+     "type": "Available",
+     "startTimes": "9 am to 4 pm",
+     "phoneno":"01123919476"
+  }
+
+]

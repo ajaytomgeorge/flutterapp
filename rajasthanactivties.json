@@ -1,0 +1,37 @@
+[ 
+    { 
+       "imageUrl": "assets/images/phone.jpg", 
+      "name": "Rajasthan State Helpline number",
+       "type": "Available",
+       "startTimes": "24 hours",
+       "phoneno":"01412225624"
+    }, 
+    { 
+      "imageUrl": "assets/images/h_sawaimansingh.jpg", 
+     "name": "Sawai Man Singh Hospital",
+      "type": "Available",
+      "startTimes": "Regular Timings",
+      "phoneno":"9829015899"
+   }, 
+   { 
+      "imageUrl": "assets/images/h_drsnmedical.jpg", 
+     "name": "Dr. S.N. Medical College, Jodhpur",
+      "type": "Available",
+      "startTimes": "Regular timings",
+      "phoneno":"0291244374"
+   }, 
+   { 
+      "imageUrl": "assets/imagesh_jhalawar.jpg", 
+     "name": "JHALAWAR MEDICAL COLLEGE",
+      "type": "Available",
+      "startTimes": "Regular timings",
+      "phoneno":"07432233388"
+   }, 
+   { 
+      "imageUrl": "assets/images/h_spmedical.jpg", 
+     "name": "Sardar Patel Medical College",
+      "type": "Available",
+      "startTimes": "10am to 5pm",
+      "phoneno":"01512220115"
+   }
+ ]

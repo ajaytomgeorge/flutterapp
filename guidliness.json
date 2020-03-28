@@ -1,0 +1,17 @@
+[ 
+    { 
+       "imageUrl": "https://www.who.int/images/default-source/health-topics/coronavirus/safe-greetings.png"
+    }, 
+    { 
+      "imageUrl": "https://www.who.int/images/default-source/health-topics/coronavirus/handshaking.png"
+   }, 
+   { 
+      "imageUrl": "https://www.who.int/images/default-source/health-topics/coronavirus/wearing-gloves.png"
+   }, 
+   { 
+      "imageUrl": "https://www.who.int/images/default-source/health-topics/coronavirus/social-media-squares/blue-1.png"
+   },
+    { 
+      "imageUrl": "https://www.who.int/images/default-source/health-topics/coronavirus/social-media-squares/blue-4.png"
+   }
+ ]

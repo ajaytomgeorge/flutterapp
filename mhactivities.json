@@ -1,0 +1,24 @@
+[ 
+   { 
+      "imageUrl": "assets/images/phone.jpg", 
+     "name": "Maharashtra State Helpline number",
+      "type": "Available",
+      "startTimes": "24 hours",
+      "phoneno":"02026127394"
+   }, 
+   { 
+     "imageUrl": "assets/images/h_indiragandhi.jpg", 
+    "name": "Indira Gandhi Government Medical College & Hospital",
+     "type": "Available",
+     "startTimes": "24 hours",
+     "phoneno":"07122725423"
+  }, 
+  { 
+     "imageUrl": "assets/images/h_kastruba.jpg", 
+    "name": "Kasturba Hospital for Infectious Diseases",
+     "type": "Available",
+     "startTimes": "Regular timings",
+     "phoneno":"02223027700"
+  }
+]
+

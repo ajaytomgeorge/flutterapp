@@ -1,0 +1,16 @@
+[ 
+    { 
+       "imageUrl": "assets/images/phone.jpg", 
+      "name": "Punjab State Helpline number",
+       "type": "Available",
+       "startTimes": "24 hours",
+       "phoneno":"104"
+    }, 
+    { 
+      "imageUrl": "assets/images/h_govtamritsar.jpg", 
+     "name": "Government Medical College, Amritsar",
+      "type": "Available",
+      "startTimes": "Regular timings",
+      "phoneno":"01832426918"
+   }
+]

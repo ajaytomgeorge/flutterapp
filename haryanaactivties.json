@@ -1,0 +1,23 @@
+[ 
+    { 
+       "imageUrl": "assets/images/phone.jpg", 
+      "name": "Haryana State Helpline number",
+       "type": "Available",
+       "startTimes": "24 hours",
+       "phoneno":"8558893911"
+    }, 
+    { 
+      "imageUrl": "assets/images/h_panditBhagwat.jpg", 
+     "name": "Pt. B.D. Sharma Post Graduate Inst. of Med. Sciences, Rohtak,Haryana",
+      "type": "Available",
+      "startTimes": "Regular timings",
+      "phoneno":" 01262281307"
+   }, 
+   { 
+      "imageUrl": "assets/images/h_BPSGovt.jpg", 
+     "name": "BPS Govt Medical College, Sonipat",
+      "type": "Available",
+      "startTimes": "Regular timings",
+      "phoneno":"01263283025"
+   }
+ ]

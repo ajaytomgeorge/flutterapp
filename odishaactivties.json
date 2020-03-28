@@ -1,0 +1,23 @@
+[ 
+    { 
+       "imageUrl": "assets/images/phone.jpg", 
+      "name": "Odisha State Helpline number",
+       "type": "Available",
+       "startTimes": "24 hours",
+       "phoneno":"9439994859"
+    }, 
+    { 
+      "imageUrl": "assets/images/h_capital.jpg", 
+     "name": "Capital Hospital",
+      "type": "Available",
+      "startTimes": "24 hours",
+      "phoneno":"06742391983"
+   }, 
+   { 
+      "imageUrl": "assets/images/h-scb.jpg", 
+     "name": "S.C.B. Medical College and Hospital",
+      "type": "Available",
+      "startTimes": "24 hours",
+      "phoneno":"06712414355"
+   }
+]

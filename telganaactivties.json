@@ -1,0 +1,17 @@
+[ 
+    { 
+       "imageUrl": "assets/images/phone.jpg", 
+      "name": "Telangana State Helpline number",
+       "type": "Available",
+       "startTimes": "24 hours",
+       "phoneno":"104"
+    }, 
+    { 
+      "imageUrl": "assets/images/h_gandhimedical.jpg", 
+     "name": "Gandhi Medical College",
+      "type": "Available",
+      "startTimes": "24 hours",
+      "phoneno":"04027502742"
+   }
+ ]
+
