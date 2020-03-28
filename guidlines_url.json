@@ -1,17 +1,30 @@
 [ 
     { 
-       "imageUrl": "https://www.who.int/images/default-source/health-topics/coronavirus/safe-greetings.png"
+       "imageUrl": "assets/images/phone.jpg", 
+      "name": "Dedicated Phone Line",
+       "type": "Available",
+       "startTimes": "12:30 pm to 2:00 pm",
+       "phoneno":"04712552056"
     }, 
     { 
-      "imageUrl": "https://www.who.int/images/default-source/health-topics/coronavirus/handshaking.png"
+      "imageUrl": "assets/images/nivk.jpg", 
+     "name": "National Institute of Virology Field Unit",
+      "type": "Available",
+      "startTimes": "9 am to 5:00 pm",
+      "phoneno":"8956234578"
    }, 
    { 
-      "imageUrl": "https://www.who.int/images/default-source/health-topics/coronavirus/wearing-gloves.png"
+      "imageUrl": "assets/images/tmc.jpg", 
+     "name": "Govt. Medical College, Thriuvananthapuram, Kerala",
+      "type": "Available",
+      "startTimes": "24 hours available",
+      "phoneno":"9845756855"
    }, 
    { 
-      "imageUrl": "https://www.who.int/images/default-source/health-topics/coronavirus/social-media-squares/blue-1.png"
-   },
-    { 
-      "imageUrl": "https://www.who.int/images/default-source/health-topics/coronavirus/social-media-squares/blue-4.png"
+      "imageUrl": "assets/images/kmc.jpg", 
+     "name": "Govt. Medical College, Kozhikode, Kerala",
+      "type": "Available",
+      "startTimes": "24 hours",
+      "phoneno":"5689234516"
    }
  ]
