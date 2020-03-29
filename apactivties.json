@@ -3,21 +3,21 @@
        "imageUrl": "assets/images/phone.jpg", 
       "name": "Andhra Pradesh State Helpline number",
        "type": "Available",
-       "startTimes": "24 hours",
+       "startTimes": "24*7 Available",
        "phoneno":"08662410978"
     }, 
     { 
       "imageUrl": "assets/images/h_svims.jpg", 
      "name": "Sri Venkateswara Institute of Medical Sciences",
       "type": "Available",
-      "startTimes": "7am to 7pm",
+      "startTimes": "07:00 am to 07:00 pm",
       "phoneno":"08772287777"
    }, 
    { 
       "imageUrl": "assets/images/h_andhramedical.jpg", 
      "name": "Andhra Medical College,Visakhapatnam",
       "type": "Available",
-      "startTimes": "9am to 6pm",
+      "startTimes": "09:00 am to 06:00 pm",
       "phoneno":"08912712258"
    }
  ]
