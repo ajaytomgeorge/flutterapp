@@ -1,43 +1,43 @@
 [
     {
         "imageUrl": "assets/images/phone.jpg",
-        "name": "Dedicated Number ",
-        "type": "Laskshadweep",
+        "name": "Laskshadweep",
+        "type": "Availale",
         "startTimes": "24*7 Available",
         "phoneno": "104"
     },
     {
         "imageUrl": "assets/images/phone.jpg",
-        "name": "Dedicated Number ",
-        "type": "Puducherry",
+        "name": "Puducherry",
+        "type": "Available",
         "startTimes": "24*7 Available",
         "phoneno": "104"
     },
     {
         "imageUrl": "assets/images/phone.jpg",
-        "name": "Dedicated Number",
-        "type": "Andaman & Nicobar",
+        "name": "Andaman & Nicobar",
+        "type": "Available",
         "startTimes": "24*7 Available",
         "phoneno": "03192232102"
     },
     {
         "imageUrl": "assets/images/phone.jpg",
-        "name": "Dedicated Number ",
-        "type": "9779558282",
-        "startTimes": "Chandigarh",
+        "name": "Chandigarh",
+        "type": "Available",
+        "startTimes": "24*7 Available",
         "phoneno": "9779558282"
     },
     {
         "imageUrl": "assets/images/phone.jpg",
-        "name": "Dedicated Number ",
-        "type": "Dadra & Nagar Haveli",
+        "name": "Dadra & Nagar Haveli",
+        "type": "Available",
         "startTimes": "24*7 Available",
         "phoneno": "104"
     },
     {
         "imageUrl": "assets/images/phone.jpg",
-        "name": "Dedicated Number ",
-        "type": " Daman & Diu",
+        "name": "Daman & Diu",
+        "type": "Available",
         "startTimes": "24*7 Available",
         "phoneno": "104"
     }
