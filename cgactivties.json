@@ -1,0 +1,9 @@
+[ 
+    { 
+       "imageUrl": "assets/images/phone.png", 
+      "name": "Emergency Helpine",
+       "type": "Available",
+       "startTimes": "24*7",
+       "phoneno":"911123978046"
+    }
+]
