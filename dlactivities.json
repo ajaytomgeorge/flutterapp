@@ -3,7 +3,7 @@
       "imageUrl": "assets/images/phone.jpg", 
      "name": "Delhi State Helpline number",
       "type": "Available",
-      "startTimes": "24 hours",
+      "startTimes": "24*7 Available",
       "phoneno":"01122307145"
    }, 
    { 
@@ -24,21 +24,21 @@
      "imageUrl": "assets/images/h_babasaheb.jpg", 
     "name": "Dr. Baba Saheb Ambedkar Hospital",
      "type": "Available",
-     "startTimes": "24 hours",
+     "startTimes": "24*7 Available",
      "phoneno":"01127933258"
   }, 
   { 
      "imageUrl": "assets/images/h_chachanehru.jpg", 
     "name": "Chacha Nehru Bal Chikitsalaya",
      "type": "Available",
-     "startTimes": "24 hours",
+     "startTimes": "24*7 Available",
      "phoneno":"01121210215"
   }, 
   { 
      "imageUrl": "assets/images/h_hindurao.jpg", 
     "name": "Hindu Rao Hospital",
      "type": "Available",
-     "startTimes": "9 am to 4 pm",
+     "startTimes": "09.00 am to 04:00 pm",
      "phoneno":"01123919476"
   }
 
