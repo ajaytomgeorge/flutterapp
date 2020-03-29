@@ -10,21 +10,21 @@
       "imageUrl": "assets/images/nivk.jpg", 
      "name": "National Institute of Virology Field Unit",
       "type": "Available",
-      "startTimes": "9 am to 5:00 pm",
+      "startTimes": "09:00 am to 05:00 pm",
       "phoneno":"8956234578"
    }, 
    { 
       "imageUrl": "assets/images/tmc.jpg", 
      "name": "Govt. Medical College, Thriuvananthapuram, Kerala",
       "type": "Available",
-      "startTimes": "24 hours available",
+      "startTimes": "24*7 Available",
       "phoneno":"9845756855"
    }, 
    { 
       "imageUrl": "assets/images/kmc.jpg", 
      "name": "Govt. Medical College, Kozhikode, Kerala",
       "type": "Available",
-      "startTimes": "24 hours",
+      "startTimes": "24*7 Available",
       "phoneno":"5689234516"
    }
  ]
