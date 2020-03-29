@@ -3,7 +3,7 @@
        "imageUrl": "assets/images/phone.jpg", 
       "name": "Uttar Pradesh State Helpline number",
        "type": "Available",
-       "startTimes": "24 hours",
+       "startTimes": "24*7 Available",
        "phoneno":"18001805145"
     }, 
     { 
@@ -24,7 +24,7 @@
       "imageUrl": "assets/images/h_jawaharaligarh.jpg", 
      "name": "Jawaharlal Nehru Medical College, Aligarh",
       "type": "Available",
-      "startTimes": "24 hours",
+      "startTimes": "24*7 Available",
       "phoneno":"05712721113"
    }
  ]
