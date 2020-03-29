@@ -1,9 +1,16 @@
 [ 
     { 
-       "imageUrl": "assets/images/noinfo.png", 
-      "name": "No Activity Available ",
-       "type": "Closed",
-       "startTimes": "none",
-       "phoneno":"none"
-    }
+       "imageUrl": "assets/images/phone.png", 
+      "name": "Dedicated Number",
+       "type": "Available",
+       "startTimes": "24*7 Available",
+       "phoneno":"1800313444222"
+    },
+    { 
+        "imageUrl": "assets/images/phone.png", 
+       "name": "Dedicated Number ",
+        "type": "Available",
+        "startTimes": "24*7 Available",
+        "phoneno":"03323412600"
+     }
 ]
