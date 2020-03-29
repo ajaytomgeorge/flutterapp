@@ -3,7 +3,7 @@
        "imageUrl": "assets/images/phone.jpg", 
       "name": "Rajasthan State Helpline number",
        "type": "Available",
-       "startTimes": "24 hours",
+       "startTimes": "24*7 Available",
        "phoneno":"01412225624"
     }, 
     { 
@@ -31,7 +31,7 @@
       "imageUrl": "assets/images/h_spmedical.jpg", 
      "name": "Sardar Patel Medical College",
       "type": "Available",
-      "startTimes": "10am to 5pm",
+      "startTimes": "10:00 am to 05:00 pm",
       "phoneno":"01512220115"
    }
  ]
