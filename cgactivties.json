@@ -3,7 +3,7 @@
        "imageUrl": "assets/images/phone.jpg", 
       "name": "Emergency Helpine",
        "type": "Available",
-       "startTimes": "24*7",
+       "startTimes": "24*7 Available",
        "phoneno":"911123978046"
     }
 ]
