@@ -1,27 +1,27 @@
 [ 
    { 
       "imageUrl": "https://www.who.int/images/default-source/health-topics/coronavirus/safe-greetings.png",
-      "title":"Greettings",
+      "title":"Greetings",
       "description":"Start trying Namastae instead of handshakes as it is more gentle and safer"
    }, 
    { 
      "imageUrl": "https://www.who.int/images/default-source/health-topics/coronavirus/handshaking.png",
      "title":"Handshaking",
-     "description":"None"
-  }, 
-  { 
-     "imageUrl": "https://www.who.int/images/default-source/health-topics/coronavirus/wearing-gloves.png",
-     "title":"Gloves",
-     "description":"Gloves are always a must when travelling"
+     "description":"Avoid shaking hands"
   }, 
   { 
      "imageUrl": "https://www.who.int/images/default-source/health-topics/coronavirus/social-media-squares/blue-1.png",
-     "title":"Blues",
-     "description":"None"
+     "title":"Washing Hands",
+     "description":"Consistently wash your hands"
   },
+    { 
+     "imageUrl": "https://www.who.int/images/default-source/health-topics/coronavirus/wearing-gloves.png",
+     "title":"Gloves",
+     "description":"Gloves are only secondary to washing your hands"
+  }, 
    { 
      "imageUrl": "https://www.who.int/images/default-source/health-topics/coronavirus/social-media-squares/blue-4.png",
-     "title":"Blues 2",
-     "description":"None"
+     "title":"Protect Others",
+     "description":"Be Safe Keep Others Safe"
   }
 ]
