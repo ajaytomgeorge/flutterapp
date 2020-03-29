@@ -1,13 +1,13 @@
 [ 
     { 
-       "imageUrl": "assets/images/phone.png", 
+       "imageUrl": "assets/images/phone.jpg", 
       "name": "Dedicated Number",
        "type": "Available",
        "startTimes": "24*7 Available",
        "phoneno":"1800313444222"
     },
     { 
-        "imageUrl": "assets/images/phone.png", 
+        "imageUrl": "assets/images/phone.jpg", 
        "name": "Dedicated Number ",
         "type": "Available",
         "startTimes": "24*7 Available",
