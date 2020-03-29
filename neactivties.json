@@ -1,9 +1,44 @@
-[ 
-    { 
-       "imageUrl": "assets/images/noinfo.png", 
-      "name": "No Activity Available ",
-       "type": "Closed",
-       "startTimes": "none",
-       "phoneno":"none"
+[
+    {
+        "imageUrl": "assets/images/phone.jpg",
+        "name": "Dedicated Number",
+        "type": "Manipur",
+        "startTimes": "24*7 Available",
+        "phoneno": "3852411668"
+    },
+    {
+        "imageUrl": "assets/images/phone.jpg",
+        "name": "Dedicated Number ",
+        "type": "Meghalaya",
+        "startTimes": "24*7 Available",
+        "phoneno": "108"
+    },
+    {
+        "imageUrl": "assets/images/phone.jpg",
+        "name": "Dedicated Number ",
+        "type": "Mizoram",
+        "startTimes": "24*7 Available",
+        "phoneno": "102"
+    },
+    {
+        "imageUrl": "assets/images/phone.jpg",
+        "name": "Dedicated Number ",
+        "type": "Nagaland",
+        "startTimes": "24*7 Available",
+        "phoneno": "7005539653"
+    },
+    {
+        "imageUrl": "assets/images/phone.jpg",
+        "name": "Dedicated Number ",
+        "type": "Sikkim",
+        "startTimes": "24*7 Available",
+        "phoneno": "104"
+    },
+    {
+        "imageUrl": "assets/images/phone.jpg",
+        "name": "Dedicated Number ",
+        "type": "Tripura",
+        "startTimes": "24*7 Available",
+        "phoneno": "0381-2315879"
     }
 ]
