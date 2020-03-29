@@ -5,5 +5,13 @@
        "type": "Available",
        "startTimes": "24*7 Available",
        "phoneno":"911123978046"
+    },
+    
+        { 
+       "imageUrl": "assets/images/whatsapp.jpg", 
+      "name": "WhatsApp",
+       "type": "Available",
+       "startTimes": "24*7 Available",
+       "phoneno":"9013151515"
     }
 ]
