@@ -3,14 +3,14 @@
       "imageUrl": "assets/images/phone.jpg", 
      "name": "Maharashtra State Helpline number",
       "type": "Available",
-      "startTimes": "24 hours",
+      "startTimes": "24*7 Available",
       "phoneno":"02026127394"
    }, 
    { 
      "imageUrl": "assets/images/h_indiragandhi.jpg", 
     "name": "Indira Gandhi Government Medical College & Hospital",
      "type": "Available",
-     "startTimes": "24 hours",
+     "startTimes": "24*7 Available",
      "phoneno":"07122725423"
   }, 
   { 
