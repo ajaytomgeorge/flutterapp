@@ -1,43 +1,43 @@
 [
     {
         "imageUrl": "assets/images/phone.jpg",
-        "name": "Dedicated Number",
-        "type": "Manipur",
+        "name": "Manipur",
+        "type": "Available",
         "startTimes": "24*7 Available",
         "phoneno": "3852411668"
     },
     {
         "imageUrl": "assets/images/phone.jpg",
-        "name": "Dedicated Number ",
-        "type": "Meghalaya",
+        "name": "Meghalaya",
+        "type": "Available",
         "startTimes": "24*7 Available",
         "phoneno": "108"
     },
     {
         "imageUrl": "assets/images/phone.jpg",
-        "name": "Dedicated Number ",
-        "type": "Mizoram",
+        "name": "Mizoram",
+        "type": "Available",
         "startTimes": "24*7 Available",
         "phoneno": "102"
     },
     {
         "imageUrl": "assets/images/phone.jpg",
-        "name": "Dedicated Number ",
-        "type": "Nagaland",
+        "name": "Nagaland",
+        "type": "Available",
         "startTimes": "24*7 Available",
         "phoneno": "7005539653"
     },
     {
         "imageUrl": "assets/images/phone.jpg",
-        "name": "Dedicated Number ",
-        "type": "Sikkim",
+        "name": "Sikkim",
+        "type": "Available",
         "startTimes": "24*7 Available",
         "phoneno": "104"
     },
     {
         "imageUrl": "assets/images/phone.jpg",
-        "name": "Dedicated Number ",
-        "type": "Tripura",
+        "name": "Tripura",
+        "type": "Available",
         "startTimes": "24*7 Available",
         "phoneno": "03812315879"
     }
