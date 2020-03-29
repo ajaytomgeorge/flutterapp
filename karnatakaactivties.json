@@ -3,21 +3,21 @@
        "imageUrl": "assets/images/phone.jpg", 
       "name": "Karnataka State Helpline number",
        "type": "Available",
-       "startTimes": "24 hours",
+       "startTimes": "24*7 Available",
        "phoneno":"104"
     }, 
     { 
       "imageUrl": "assets/images/h_BMCRI.jpg", 
      "name": "BMCRI - Bangalore Medical College and Research Institute",
       "type": "Available",
-      "startTimes": "9am to 4pm",
+      "startTimes": "09:00 am to 04:00 pm",
       "phoneno":"0918026700810"
    }, 
    { 
       "imageUrl": "assets/images/h_mysoremedical.jpg", 
      "name": "Mysore Medical College And Research Institute",
       "type": "Available",
-      "startTimes": "10am to 5pm",
+      "startTimes": "10:00 am to 05:00 pm",
       "phoneno":"08212520512"
    }, 
    { 
@@ -31,7 +31,7 @@
       "imageUrl": "assets/images/h_shivamoga.jpg", 
      "name": "Shivamogga Institute of Medical Sciences",
       "type": "Available",
-      "startTimes": "8am to 6pm",
+      "startTimes": "08:00 am to 06:00 pm",
       "phoneno":"08182229933"
    }
  ]
