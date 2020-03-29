@@ -1,9 +1,44 @@
-[ 
-    { 
-       "imageUrl": "assets/images/noinfo.png", 
-      "name": "No Activity Available ",
-       "type": "Closed",
-       "startTimes": "none",
-       "phoneno":"none"
+[
+    {
+        "imageUrl": "assets/images/phone.jpg",
+        "name": "Dedicated Number ",
+        "type": "Laskshadweep",
+        "startTimes": "24*7 Available",
+        "phoneno": "104"
+    },
+    {
+        "imageUrl": "assets/images/phone.jpg",
+        "name": "Dedicated Number ",
+        "type": "Puducherr",
+        "startTimes": "24*7 Available",
+        "phoneno": "104"
+    },
+    {
+        "imageUrl": "assets/images/phone.jpg",
+        "name": "Dedicated Number",
+        "type": "Andaman & Nicobar",
+        "startTimes": "24*7 Available",
+        "phoneno": "03192232102"
+    },
+    {
+        "imageUrl": "assets/images/phone.jpg",
+        "name": "Dedicated Number ",
+        "type": "9779558282",
+        "startTimes": "Chandigarh",
+        "phoneno": "9779558282"
+    },
+    {
+        "imageUrl": "assets/images/phone.jpg",
+        "name": "Dedicated Number ",
+        "type": "Dadra & Nagar Haveli",
+        "startTimes": "24*7 Available",
+        "phoneno": "104"
+    },
+    {
+        "imageUrl": "assets/images/phone.jpg",
+        "name": "Dedicated Number ",
+        "type": " Daman & Diu",
+        "startTimes": "24*7 Available",
+        "phoneno": "104"
     }
 ]
