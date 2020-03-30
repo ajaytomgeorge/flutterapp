@@ -1,4 +1,15 @@
 [ 
+     { 
+     "imageUrl": "https://www.who.int/images/default-source/health-topics/coronavirus/social-media-squares/blue-1.png",
+     "title":"Washing Hands",
+     "description":"Consistently wash your hands"
+  },
+   , 
+   { 
+     "imageUrl": "https://www.who.int/images/default-source/health-topics/coronavirus/social-media-squares/blue-4.png",
+     "title":"Protect Others",
+     "description":"Be safe keep others safe"
+  }
    { 
       "imageUrl": "https://www.who.int/images/default-source/health-topics/coronavirus/safe-greetings.png",
       "title":"Greetings",
@@ -9,19 +20,10 @@
      "title":"Handshaking",
      "description":"Avoid shaking hands"
   }, 
-  { 
-     "imageUrl": "https://www.who.int/images/default-source/health-topics/coronavirus/social-media-squares/blue-1.png",
-     "title":"Washing Hands",
-     "description":"Consistently wash your hands"
-  },
+
     { 
      "imageUrl": "https://www.who.int/images/default-source/health-topics/coronavirus/wearing-gloves.png",
      "title":"Gloves",
      "description":"Gloves are only secondary to washing your hands"
-  }, 
-   { 
-     "imageUrl": "https://www.who.int/images/default-source/health-topics/coronavirus/social-media-squares/blue-4.png",
-     "title":"Protect Others",
-     "description":"Be safe keep others safe"
   }
 ]
